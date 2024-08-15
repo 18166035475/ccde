@@ -1,0 +1,1266 @@
+{
+  "Multi-turn_dialogue_Xm": {
+    "Coherent": "moderate",
+    "Relevant": "good",
+    "Appropriate": "moderate",
+    "Consistent": "good",
+    "Dialogue": [
+      {"human": "Hi there! How's your day going so far?"},
+      {"chatbot": "Hello! My day has been going well. How about yours?"},
+      {"human": "It's been pretty good. I started reading a new book today."},
+      {"chatbot": "That sounds interesting! What book are you reading?"},
+      {"human": "It's a mystery novel. I love trying to figure out the plot before the ending."},
+      {"chatbot": "Mystery novels are so engaging. Do you have a favorite author?"},
+      {"human": "Yes, I really enjoy Agatha Christie. Her books are always full of surprises."},
+      {"chatbot": "Agatha Christie is a classic! Her stories are timeless and always keep you guessing."}
+    ]
+  },
+  "Single_turn_dialogue_X1": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "bad",
+    "Specific": "good",
+    "Engaging": "moderate",
+    "Likeable": "bad",
+    "Diverse": "moderate",
+    "Interesting": "good"
+  },
+  "Single_turn_dialogue_X2": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "good",
+    "Specific": "bad",
+    "Engaging": "moderate",
+    "Likeable": "good",
+    "Diverse": "moderate",
+    "Interesting": "bad"
+  },
+  "Single_turn_dialogue_X3": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "good",
+    "Specific": "good",
+    "Engaging": "bad",
+    "Likeable": "good",
+    "Diverse": "good",
+    "Interesting": "bad"
+  },
+  "Single_turn_dialogue_X4": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "bad",
+    "Specific": "good",
+    "Engaging": "good",
+    "Likeable": "good",
+    "Diverse": "bad",
+    "Interesting": "good"
+  }
+},
+
+{
+  "Multi-turn_dialogue_Xm": {
+    "Coherent": "high",
+    "Relevant": "excellent",
+    "Appropriate": "high",
+    "Consistent": "excellent",
+    "Dialogue": [
+      {"human": "Hello! Have you seen any good movies lately?"},
+      {"chatbot": "Hi! Yes, I recently watched a fantastic sci-fi film. How about you?"},
+      {"human": "I haven’t seen many recently, but I’m interested in sci-fi too. What’s the film about?"},
+      {"chatbot": "It's about a future where humans have to live in space due to Earth's environmental collapse. It’s both thrilling and thought-provoking."},
+      {"human": "That sounds intriguing! I love movies that explore futuristic themes."},
+      {"chatbot": "Me too! Sci-fi often provides a fascinating look at possible futures and technological advancements."},
+      {"human": "Absolutely. Do you have any other recommendations for good sci-fi movies?"},
+      {"chatbot": "Sure! You might enjoy ‘Blade Runner 2049’ or ‘The Expanse’ series. They offer great storytelling and amazing visuals."}
+    ]
+  },
+  "Single_turn_dialogue_X1": {
+    "Fluent": "excellent",
+    "Understandable": "excellent",
+    "Correct": "excellent",
+    "Specific": "excellent",
+    "Engaging": "high",
+    "Likeable": "excellent",
+    "Diverse": "high",
+    "Interesting": "excellent"
+  },
+  "Single_turn_dialogue_X2": {
+    "Fluent": "excellent",
+    "Understandable": "excellent",
+    "Correct": "excellent",
+    "Specific": "excellent",
+    "Engaging": "high",
+    "Likeable": "excellent",
+    "Diverse": "high",
+    "Interesting": "excellent"
+  },
+  "Single_turn_dialogue_X3": {
+    "Fluent": "excellent",
+    "Understandable": "excellent",
+    "Correct": "excellent",
+    "Specific": "excellent",
+    "Engaging": "high",
+    "Likeable": "excellent",
+    "Diverse": "high",
+    "Interesting": "excellent"
+  },
+  "Single_turn_dialogue_X4": {
+    "Fluent": "excellent",
+    "Understandable": "excellent",
+    "Correct": "excellent",
+    "Specific": "excellent",
+    "Engaging": "high",
+    "Likeable": "excellent",
+    "Diverse": "high",
+    "Interesting": "excellent"
+  }
+},
+{
+  "Multi-turn_dialogue_Xm": {
+    "Coherent": "moderate",
+    "Relevant": "good",
+    "Appropriate": "moderate",
+    "Consistent": "good",
+    "Dialogue": [
+      {"human": "Hi there! How's your day going so far?"},
+      {"chatbot": "Hello! My day has been going well. How about yours?"},
+      {"human": "It's been pretty good. I started reading a new book today."},
+      {"chatbot": "That sounds interesting! What book are you reading?"},
+      {"human": "It's a mystery novel. I love trying to figure out the plot before the ending."},
+      {"chatbot": "Mystery novels are so engaging. Do you have a favorite author?"},
+      {"human": "Yes, I really enjoy Agatha Christie. Her books are always full of surprises."},
+      {"chatbot": "Agatha Christie is a classic! Her stories are timeless and always keep you guessing."}
+    ]
+  },
+  "Single_turn_dialogue_X1": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "good",
+    "Specific": "bad",
+    "Engaging": "moderate",
+    "Likeable": "good",
+    "Diverse": "moderate",
+    "Interesting": "good"
+  },
+  "Single_turn_dialogue_X2": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "good",
+    "Specific": "bad",
+    "Engaging": "moderate",
+    "Likeable": "good",
+    "Diverse": "moderate",
+    "Interesting": "bad"
+  },
+  "Single_turn_dialogue_X3": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "good",
+    "Specific": "good",
+    "Engaging": "good",
+    "Likeable": "good",
+    "Diverse": "good",
+    "Interesting": "good"
+  },
+  "Single_turn_dialogue_X4": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "good",
+    "Specific": "good",
+    "Engaging": "good",
+    "Likeable": "good",
+    "Diverse": "good",
+    "Interesting": "good"
+  }
+},
+{
+  "Multi-turn_dialogue_Xm": {
+    "Coherent": "moderate",
+    "Relevant": "good",
+    "Appropriate": "moderate",
+    "Consistent": "good",
+    "Dialogue": [
+      {"human": "Hey! Do you have any recommendations for a good TV show?"},
+      {"chatbot": "Hi! Sure, I recently watched a thrilling drama series. What genre are you interested in?"},
+      {"human": "I’m into sci-fi right now. Any suggestions?"},
+      {"chatbot": "You might enjoy 'The Expanse.' It’s a great sci-fi series with lots of intrigue."},
+      {"human": "I’ve heard good things about that. I’ll definitely check it out."},
+      {"chatbot": "I think you’ll like it! It’s got a fascinating plot and strong characters."},
+      {"human": "Sounds perfect. Thanks for the tip!"}
+    ]
+  },
+  "Single_turn_dialogue_X1": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "good",
+    "Specific": "good",
+    "Engaging": "moderate",
+    "Likeable": "good",
+    "Diverse": "moderate",
+    "Interesting": "good"
+  },
+  "Single_turn_dialogue_X2": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "good",
+    "Specific": "good",
+    "Engaging": "moderate",
+    "Likeable": "good",
+    "Diverse": "moderate",
+    "Interesting": "good"
+  },
+  "Single_turn_dialogue_X3": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "good",
+    "Specific": "good",
+    "Engaging": "good",
+    "Likeable": "good",
+    "Diverse": "good",
+    "Interesting": "good"
+  },
+  "Single_turn_dialogue_X4": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "good",
+    "Specific": "good",
+    "Engaging": "good",
+    "Likeable": "good",
+    "Diverse": "good",
+    "Interesting": "good"
+  }
+},
+{
+  "Multi-turn_dialogue_Xm": {
+    "Coherent": "moderate",
+    "Relevant": "good",
+    "Appropriate": "moderate",
+    "Consistent": "good",
+    "Dialogue": [
+      {"human": "Hello! What’s your favorite way to relax after a long day?"},
+      {"chatbot": "Hi! I enjoy listening to music or reading a good book. What about you?"},
+      {"human": "I like to unwind by going for a walk or watching a movie."},
+      {"chatbot": "Those sound like great ways to relax. Do you have a favorite movie genre?"},
+      {"human": "I’m a big fan of comedies. They always lift my spirits."},
+      {"chatbot": "Comedies are perfect for lightening the mood. Do you have a favorite comedian?"},
+      {"human": "I really like Kevin Hart. His humor is always spot-on."},
+      {"chatbot": "Kevin Hart is hilarious! His stand-up routines are always entertaining."}
+    ]
+  },
+  "Single_turn_dialogue_X1": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "good",
+    "Specific": "good",
+    "Engaging": "moderate",
+    "Likeable": "good",
+    "Diverse": "moderate",
+    "Interesting": "good"
+  },
+  "Single_turn_dialogue_X2": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "good",
+    "Specific": "good",
+    "Engaging": "moderate",
+    "Likeable": "good",
+    "Diverse": "moderate",
+    "Interesting": "good"
+  },
+  "Single_turn_dialogue_X3": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "good",
+    "Specific": "good",
+    "Engaging": "good",
+    "Likeable": "good",
+    "Diverse": "good",
+    "Interesting": "good"
+  },
+  "Single_turn_dialogue_X4": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "good",
+    "Specific": "good",
+    "Engaging": "good",
+    "Likeable": "good",
+    "Diverse": "good",
+    "Interesting": "good"
+  }
+},
+{
+  "Multi-turn_dialogue_Xm": {
+    "Coherent": "moderate",
+    "Relevant": "good",
+    "Appropriate": "moderate",
+    "Consistent": "good",
+    "Dialogue": [
+      {"human": "Hi! Do you enjoy any sports or physical activities?"},
+      {"chatbot": "Hello! I like to keep fit by doing yoga. What about you?"},
+      {"human": "I’m into hiking. It’s a great way to stay active and enjoy nature."},
+      {"chatbot": "Hiking sounds fantastic. Do you have a favorite trail or hiking spot?"},
+      {"human": "I love the trails in the national park nearby. They offer stunning views."},
+      {"chatbot": "That sounds amazing. Hiking in a national park must be a great experience."},
+      {"human": "It really is. The scenery is breathtaking."},
+      {"chatbot": "I bet! Nature has a way of making outdoor activities even more enjoyable."}
+    ]
+  },
+  "Single_turn_dialogue_X1": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "good",
+    "Specific": "good",
+    "Engaging": "moderate",
+    "Likeable": "good",
+    "Diverse": "moderate",
+    "Interesting": "good"
+  },
+  "Single_turn_dialogue_X2": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "good",
+    "Specific": "good",
+    "Engaging": "moderate",
+    "Likeable": "good",
+    "Diverse": "moderate",
+    "Interesting": "good"
+  },
+  "Single_turn_dialogue_X3": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "good",
+    "Specific": "good",
+    "Engaging": "good",
+    "Likeable": "good",
+    "Diverse": "good",
+    "Interesting": "good"
+  },
+  "Single_turn_dialogue_X4": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "good",
+    "Specific": "good",
+    "Engaging": "good",
+    "Likeable": "good",
+    "Diverse": "good",
+    "Interesting": "good"
+  }
+},
+
+{
+  "Multi-turn_dialogue_Xm": {
+    "Coherent": "moderate",
+    "Relevant": "good",
+    "Appropriate": "moderate",
+    "Consistent": "good",
+    "Dialogue": [
+      {"human": "Hi! What’s your go-to activity on weekends?"},
+      {"chatbot": "Hello! I usually like to go for a bike ride or visit a local café. What do you like to do?"},
+      {"human": "I enjoy spending time with family and sometimes trying out new recipes."},
+      {"chatbot": "That sounds wonderful. Cooking new dishes can be a lot of fun. Do you have a favorite recipe?"},
+      {"human": "I recently made a homemade lasagna that turned out really well."},
+      {"chatbot": "Lasagna is such a classic and hearty dish. Did you try any special ingredients?"},
+      {"human": "I added some extra herbs and spices to give it a unique flavor."},
+      {"chatbot": "That’s a great idea! Adding herbs and spices can really elevate the dish."}
+    ]
+  },
+  "Single_turn_dialogue_X1": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "good",
+    "Specific": "good",
+    "Engaging": "moderate",
+    "Likeable": "good",
+    "Diverse": "moderate",
+    "Interesting": "good"
+  },
+  "Single_turn_dialogue_X2": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "good",
+    "Specific": "good",
+    "Engaging": "moderate",
+    "Likeable": "good",
+    "Diverse": "moderate",
+    "Interesting": "good"
+  },
+  "Single_turn_dialogue_X3": {
+"Fluent": "good",
+"Understandable": "good",
+"Correct": "good",
+"Specific": "good",
+"Engaging": "good",
+},
+
+{
+  "Multi-turn_dialogue_Xm": {
+    "Coherent": "good",
+    "Relevant": "moderate",
+    "Appropriate": "good",
+    "Consistent": "moderate",
+    "Dialogue": [
+      {"human": "Hey! Did you watch the latest movie release?"},
+      {"chatbot": "Hi! No, I haven't watched it yet. How was it?"},
+      {"human": "It was fantastic! The plot twists were amazing."},
+      {"chatbot": "Sounds exciting! What was the most surprising twist?"},
+      {"human": "I can't give too much away, but the ending was completely unexpected."},
+      {"chatbot": "I love surprises in movies. I'll have to check it out soon."}
+    ]
+  },
+  "Single_turn_dialogue_X1": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "good",
+    "Specific": "moderate",
+    "Engaging": "good",
+    "Likeable": "bad",
+    "Diverse": "moderate",
+    "Interesting": "good"
+  },
+  "Single_turn_dialogue_X2": {
+    "Fluent": "good",
+    "Understandable": "moderate",
+    "Correct": "good",
+    "Specific": "moderate",
+    "Engaging": "good",
+    "Likeable": "good",
+    "Diverse": "moderate",
+    "Interesting": "good"
+  },
+  "Single_turn_dialogue_X3": {
+    "Fluent": "moderate",
+    "Understandable": "good",
+    "Correct": "good",
+    "Specific": "good",
+    "Engaging": "moderate",
+    "Likeable": "good",
+    "Diverse": "good",
+    "Interesting": "moderate"
+  },
+  "Single_turn_dialogue_X4": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "moderate",
+    "Specific": "good",
+    "Engaging": "good",
+    "Likeable": "moderate",
+    "Diverse": "good",
+    "Interesting": "good"
+  }
+}
+
+{
+  "Multi-turn_dialogue_Xm": {
+    "Coherent": "moderate",
+    "Relevant": "good",
+    "Appropriate": "good",
+    "Consistent": "bad",
+    "Dialogue": [
+      {"human": "Hello! Have you tried any new recipes recently?"},
+      {"chatbot": "Hi! Yes, I tried making homemade pasta. It was a lot of fun."},
+      {"human": "That sounds delicious! How did it turn out?"},
+      {"chatbot": "It turned out great! The texture was perfect."},
+      {"human": "I'm impressed. I've been wanting to try making pasta myself."},
+      {"chatbot": "You should definitely give it a try. It's more rewarding than you might think."}
+    ]
+  },
+  "Single_turn_dialogue_X1": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "bad",
+    "Specific": "good",
+    "Engaging": "moderate",
+    "Likeable": "bad",
+    "Diverse": "moderate",
+    "Interesting": "good"
+  },
+  "Single_turn_dialogue_X2": {
+    "Fluent": "good",
+    "Understandable": "moderate",
+    "Correct": "good",
+    "Specific": "bad",
+    "Engaging": "moderate",
+    "Likeable": "good",
+    "Diverse": "good",
+    "Interesting": "moderate"
+  },
+  "Single_turn_dialogue_X3": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "good",
+    "Specific": "moderate",
+    "Engaging": "bad",
+    "Likeable": "good",
+    "Diverse": "moderate",
+    "Interesting": "good"
+  },
+  "Single_turn_dialogue_X4": {
+    "Fluent": "moderate",
+    "Understandable": "good",
+    "Correct": "good",
+    "Specific": "moderate",
+    "Engaging": "bad",
+    "Likeable": "good",
+    "Diverse": "good",
+    "Interesting": "moderate"
+  }
+}
+
+{
+  "Multi-turn_dialogue_Xm": {
+    "Coherent": "good",
+    "Relevant": "moderate",
+    "Appropriate": "bad",
+    "Consistent": "good",
+    "Dialogue": [
+      {"human": "Hey, do you have any plans for the weekend?"},
+      {"chatbot": "Hi! I plan to visit a local market. What about you?"},
+      {"human": "I’m thinking of going hiking if the weather is nice."},
+      {"chatbot": "That sounds like a great idea! Do you have a favorite hiking spot?"},
+      {"human": "Yes, there’s a beautiful trail near the lake I love."},
+      {"chatbot": "That sounds picturesque. I hope you have great weather for it!"}
+    ]
+  },
+  "Single_turn_dialogue_X1": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "moderate",
+    "Specific": "good",
+    "Engaging": "good",
+    "Likeable": "moderate",
+    "Diverse": "moderate",
+    "Interesting": "bad"
+  },
+  "Single_turn_dialogue_X2": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "good",
+    "Specific": "good",
+    "Engaging": "moderate",
+    "Likeable": "good",
+    "Diverse": "good",
+    "Interesting": "moderate"
+  },
+  "Single_turn_dialogue_X3": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "good",
+    "Specific": "moderate",
+    "Engaging": "good",
+    "Likeable": "good",
+    "Diverse": "good",
+    "Interesting": "good"
+  },
+  "Single_turn_dialogue_X4": {
+    "Fluent": "moderate",
+    "Understandable": "good",
+    "Correct": "moderate",
+    "Specific": "good",
+    "Engaging": "bad",
+    "Likeable": "moderate",
+    "Diverse": "moderate",
+    "Interesting": "good"
+  }
+}
+
+{
+  "Multi-turn_dialogue_Xm": {
+    "Coherent": "moderate",
+    "Relevant": "good",
+    "Appropriate": "moderate",
+    "Consistent": "good",
+    "Dialogue": [
+      {"human": "Hi! Have you listened to any new music lately?"},
+      {"chatbot": "Hello! Yes, I’ve been exploring some jazz artists recently."},
+      {"human": "Jazz is great! Any recommendations?"},
+      {"chatbot": "Sure, you might enjoy listening to Miles Davis."},
+      {"human": "I’ve heard of him. What’s your favorite track?"},
+      {"chatbot": "I really like 'So What'. It has a great rhythm."}
+    ]
+  },
+  "Single_turn_dialogue_X1": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "bad",
+    "Specific": "good",
+    "Engaging": "moderate",
+    "Likeable": "bad",
+    "Diverse": "moderate",
+    "Interesting": "bad"
+  },
+  "Single_turn_dialogue_X2": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "good",
+    "Specific": "good",
+    "Engaging": "bad",
+    "Likeable": "moderate",
+    "Diverse": "good",
+    "Interesting": "moderate"
+  },
+  "Single_turn_dialogue_X3": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "good",
+    "Specific": "moderate",
+    "Engaging": "bad",
+    "Likeable": "good",
+    "Diverse": "moderate",
+    "Interesting": "good"
+  },
+  "Single_turn_dialogue_X4": {
+    "Fluent": "moderate",
+    "Understandable": "good",
+    "Correct": "good",
+    "Specific": "bad",
+    "Engaging": "moderate",
+    "Likeable": "good",
+    "Diverse": "bad",
+    "Interesting": "moderate"
+  }
+}
+
+{
+  "Multi-turn_dialogue_Xm": {
+    "Coherent": "good",
+    "Relevant": "good",
+    "Appropriate": "moderate",
+    "Consistent": "moderate",
+    "Dialogue": [
+      {"human": "Hey, do you have any fun weekend plans?"},
+      {"chatbot": "Hi! I’m planning to go to a food festival."},
+      {"human": "That sounds awesome! What kind of food will be there?"},
+      {"chatbot": "There will be a variety of cuisines from around the world."},
+      {"human": "I love trying new foods. What’s the most interesting dish you’re excited about?"},
+      {"chatbot": "I’m looking forward to trying some authentic Korean barbecue."}
+    ]
+  },
+  "Single_turn_dialogue_X1": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "good",
+    "Specific": "moderate",
+    "Engaging": "good",
+    "Likeable": "good",
+    "Diverse": "moderate",
+    "Interesting": "good"
+  },
+  "Single_turn_dialogue_X2": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "good",
+    "Specific": "moderate",
+    "Engaging": "good",
+    "Likeable": "moderate",
+    "Diverse": "bad,
+    "Interesting": "moderate"
+  },
+  "Single_turn_dialogue_X3": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "good",
+    "Specific": "bad",
+    "Engaging": "good",
+    "Likeable": "good",
+    "Diverse": "good",
+    "Interesting": "good"
+  },
+  "Single_turn_dialogue_X4": {
+    "Fluent": "moderate",
+    "Understandable": "good",
+    "Correct": "good",
+    "Specific": "good",
+    "Engaging": "bad,
+    "Likeable": "moderate",
+    "Diverse": "good",
+    "Interesting": "moderate"
+  }
+}
+
+{
+  "Multi-turn_dialogue_Xm": {
+    "Coherent": "moderate",
+    "Relevant": "moderate",
+    "Appropriate": "good",
+    "Consistent": "good",
+    "Dialogue": [
+      {"human": "Hi! Have you ever tried painting?"},
+      {"chatbot": "Hello! I haven’t tried painting, but I’ve heard it’s very relaxing."},
+      {"human": "It is! I started painting as a hobby last month."},
+      {"chatbot": "That’s great! What kind of paintings do you like to create?"},
+      {"human": "I enjoy painting landscapes and abstract art."},
+      {"chatbot": "Landscapes sound beautiful. Abstract art must be very expressive."}
+    ]
+  },
+  "Single_turn_dialogue_X1": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "good",
+    "Specific": "bad",
+    "Engaging": "moderate",
+    "Likeable": "good",
+    "Diverse": "moderate",
+    "Interesting": "good"
+  },
+  "Single_turn_dialogue_X2": {
+    "Fluent": "moderate",
+    "Understandable": "good",
+    "Correct": "good",
+    "Specific": "good",
+    "Engaging": "moderate",
+    "Likeable": "bad",
+    "Diverse": "moderate",
+    "Interesting": "good"
+  },
+  "Single_turn_dialogue_X3": {
+    "Fluent": "good",
+    "Understandable": "moderate",
+    "Correct": "good",
+    "Specific": "bad",
+    "Engaging": "good",
+    "Likeable": "moderate",
+    "Diverse": "good",
+    "Interesting": "moderate"
+  },
+  "Single_turn_dialogue_X4": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "bad",
+    "Specific": "moderate",
+    "Engaging": "moderate",
+    "Likeable": "good",
+    "Diverse": "moderate",
+    "Interesting": "good"
+  }
+}
+
+{
+  "Multi-turn_dialogue_Xm": {
+    "Coherent": "good",
+    "Relevant": "good",
+    "Appropriate": "moderate",
+    "Consistent": "good",
+    "Dialogue": [
+      {"human": "Hi there! Have you read any good articles lately?"},
+      {"chatbot": "Hello! Yes, I recently read an article about space exploration."},
+      {"human": "That sounds fascinating! What was the main topic?"},
+      {"chatbot": "It was about recent discoveries in the search for extraterrestrial life."},
+      {"human": "I’m intrigued! Did the article mention any new findings?"},
+      {"chatbot": "Yes, it discussed a few new signals detected from distant galaxies."}
+    ]
+  },
+  "Single_turn_dialogue_X1": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "bad",
+    "Specific": "good",
+    "Engaging": "moderate",
+    "Likeable": "good",
+    "Diverse": "moderate",
+    "Interesting": "good"
+  },
+  "Single_turn_dialogue_X2": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "moderate",
+    "Specific": "good",
+    "Engaging": "bad",
+    "Likeable": "bad",
+    "Diverse": "moderate",
+    "Interesting": "good"
+  },
+  "Single_turn_dialogue_X3": {
+    "Fluent": "moderate",
+    "Understandable": "good",
+    "Correct": "bad",
+    "Specific": "good",
+    "Engaging": "moderate",
+    "Likeable": "bad",
+    "Diverse": "good",
+    "Interesting": "moderate"
+  },
+  "Single_turn_dialogue_X4": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "bad",
+    "Specific": "moderate",
+    "Engaging": "good",
+    "Likeable": "moderate",
+    "Diverse": "bad",
+    "Interesting": "good"
+  }
+}
+
+{
+  "Multi-turn_dialogue_Xm": {
+    "Coherent": "moderate",
+    "Relevant": "good",
+    "Appropriate": "moderate",
+    "Consistent": "good",
+    "Dialogue": [
+      {"human": "Hello! Have you been to any interesting events recently?"},
+      {"chatbot": "Hi! I attended a virtual reality workshop last week."},
+      {"human": "That sounds cool! What did you learn there?"},
+      {"chatbot": "I learned about new VR technologies and had a chance to try some demos."},
+      {"human": "Virtual reality is amazing. Did you try any particular demos you liked?"},
+      {"chatbot": "Yes, I really enjoyed a VR simulation of outer space."}
+    ]
+  },
+  "Single_turn_dialogue_X1": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "bad",
+    "Specific": "moderate",
+    "Engaging": "good",
+    "Likeable": "moderate",
+    "Diverse": "good",
+    "Interesting": "bad"
+  },
+  "Single_turn_dialogue_X2": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "good",
+    "Specific": "moderate",
+    "Engaging": "good",
+    "Likeable": "good",
+    "Diverse": "moderate",
+    "Interesting": "good"
+  },
+  "Single_turn_dialogue_X3": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "moderate",
+    "Specific": "good",
+    "Engaging": "good",
+    "Likeable": "moderate",
+    "Diverse": "good",
+    "Interesting": "moderate"
+  },
+  "Single_turn_dialogue_X4": {
+    "Fluent": "moderate",
+    "Understandable": "good",
+    "Correct": "good",
+    "Specific": "moderate",
+    "Engaging": "good",
+    "Likeable": "good",
+    "Diverse": "moderate",
+    "Interesting": "good"
+  }
+}
+
+{
+  "Multi-turn_dialogue_Xm": {
+    "Coherent": "good",
+    "Relevant": "moderate",
+    "Appropriate": "good",
+    "Consistent": "moderate",
+    "Dialogue": [
+      {"human": "Hello! What are you up to today?"},
+      {"chatbot": "Hi! I'm just here, ready to chat. What about you?"},
+      {"human": "I've been working on a new project at work."},
+      {"chatbot": "Sounds like a productive day! What kind of project is it?"},
+      {"human": "It's a software development project. We're building a new app."},
+      {"chatbot": "That sounds exciting! What does the app do?"},
+      {"human": "It’s a task management app designed to improve team productivity."},
+      {"chatbot": "Great idea! Task management apps can be very helpful for teams."}
+    ]
+  },
+  "Single_turn_dialogue_X1": {
+    "Fluent": "bad",
+    "Understandable": "good",
+    "Correct": "good",
+    "Specific": "moderate",
+    "Engaging": "good",
+    "Likeable": "good",
+    "Diverse": "moderate",
+    "Interesting": "bad"
+  },
+  "Single_turn_dialogue_X2": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "good",
+    "Specific": "bad",
+    "Engaging": "moderate",
+    "Likeable": "good",
+    "Diverse": "moderate",
+    "Interesting": "bad"
+  },
+  "Single_turn_dialogue_X3": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "moderate",
+    "Specific": "good",
+    "Engaging": "bad",
+    "Likeable": "good",
+    "Diverse": "bad",
+    "Interesting": "good"
+  },
+  "Single_turn_dialogue_X4": {
+    "Fluent": "moderate",
+    "Understandable": "good",
+    "Correct": "good",
+    "Specific": "bad",
+    "Engaging": "good",
+    "Likeable": "good",
+    "Diverse": "good",
+    "Interesting": "bad"
+  }
+}
+
+{
+  "Multi-turn_dialogue_Xm": {
+    "Coherent": "moderate",
+    "Relevant": "good",
+    "Appropriate": "moderate",
+    "Consistent": "bad",
+    "Dialogue": [
+      {"human": "Good morning! Have you done anything fun recently?"},
+      {"chatbot": "Good morning! I've been learning some new things. How about you?"},
+      {"human": "I went hiking last weekend. It was really refreshing."},
+      {"chatbot": "That sounds like a great time! Where did you go hiking?"},
+      {"human": "I hiked up to a local mountain trail. The view was amazing."},
+      {"chatbot": "Mountains offer such beautiful views. Do you hike often?"},
+      {"human": "I try to go as often as I can. It’s a good way to stay active."},
+      {"chatbot": "Definitely! Hiking is a fantastic way to stay fit and enjoy nature."}
+    ]
+  },
+  "Single_turn_dialogue_X1": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "moderate",
+    "Specific": "good",
+    "Engaging": "moderate",
+    "Likeable": "good",
+    "Diverse": "moderate",
+    "Interesting": "bad"
+  },
+  "Single_turn_dialogue_X2": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "good",
+    "Specific": "moderate",
+    "Engaging": "good",
+    "Likeable": "good",
+    "Diverse": "moderate",
+    "Interesting": "bad"
+  },
+  "Single_turn_dialogue_X3": {
+    "Fluent": "moderate",
+    "Understandable": "good",
+    "Correct": "good",
+    "Specific": "good",
+    "Engaging": "bad",
+    "Likeable": "good",
+    "Diverse": "moderate",
+    "Interesting": "bad"
+  },
+  "Single_turn_dialogue_X4": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "good",
+    "Specific": "good",
+    "Engaging": "bad",
+    "Likeable": "moderate",
+    "Diverse": "good",
+    "Interesting": "bad"
+  }
+}
+
+{
+  "Multi-turn_dialogue_Xm": {
+    "Coherent": "good",
+    "Relevant": "moderate",
+    "Appropriate": "good",
+    "Consistent": "bad",
+    "Dialogue": [
+      {"human": "Hey there! What kind of music do you like?"},
+      {"chatbot": "Hello! I enjoy a variety of music genres. Do you have a favorite?"},
+      {"human": "I’m really into jazz music these days."},
+      {"chatbot": "Jazz is fantastic! Do you have a favorite jazz artist?"},
+      {"human": "Yes, I really like Miles Davis. His music is so expressive."},
+      {"chatbot": "Miles Davis is a jazz legend. His music is incredibly influential."},
+      {"human": "Absolutely. I could listen to his albums all day."},
+      {"chatbot": "His albums are timeless. It’s amazing how they resonate with so many people."}
+    ]
+  },
+  "Single_turn_dialogue_X1": {
+    "Fluent": "good",
+    "Understandable": "bad",
+    "Correct": "good",
+    "Specific": "good",
+    "Engaging": "good",
+    "Likeable": "good",
+    "Diverse": "bad",
+    "Interesting": "good"
+  },
+  "Single_turn_dialogue_X2": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "good",
+    "Specific": "good",
+    "Engaging": "moderate",
+    "Likeable": "good",
+    "Diverse": "bad",
+    "Interesting": "good"
+  },
+  "Single_turn_dialogue_X3": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "bad",
+    "Specific": "moderate",
+    "Engaging": "good",
+    "Likeable": "bad",
+    "Diverse": "good",
+    "Interesting": "good"
+  },
+  "Single_turn_dialogue_X4": {
+    "Fluent": "bad",
+    "Understandable": "moderate",
+    "Correct": "good",
+    "Specific": "bad",
+    "Engaging": "good",
+    "Likeable": "good",
+    "Diverse": "good",
+    "Interesting": "good"
+  }
+}
+
+{
+  "Multi-turn_dialogue_Xm": {
+    "Coherent": "moderate",
+    "Relevant": "bad",
+    "Appropriate": "moderate",
+    "Consistent": "good",
+    "Dialogue": [
+      {"human": "Hi! Do you have any hobbies?"},
+      {"chatbot": "Hello! I enjoy learning new things and chatting with people. What about you?"},
+      {"human": "I love cooking and trying out new recipes."},
+      {"chatbot": "That sounds delicious! What’s the latest recipe you tried?"},
+      {"human": "I recently made homemade pasta. It was a lot of fun."},
+      {"chatbot": "Homemade pasta sounds amazing! Did you make your own sauce too?"},
+      {"human": "Yes, I made a tomato basil sauce from scratch."},
+      {"chatbot": "That’s impressive! Making everything from scratch really adds to the flavor."}
+    ]
+  },
+  "Single_turn_dialogue_X1": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "good",
+    "Specific": "bad",
+    "Engaging": "moderate",
+    "Likeable": "good",
+    "Diverse": "moderate",
+    "Interesting": "good"
+  },
+  "Single_turn_dialogue_X2": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "bad",
+    "Specific": "good",
+    "Engaging": "good",
+    "Likeable": "moderate",
+    "Diverse": "moderate",
+    "Interesting": "good"
+  },
+  "Single_turn_dialogue_X3": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "moderate",
+    "Specific": "bad",
+    "Engaging": "good",
+    "Likeable": "good",
+    "Diverse": "moderate",
+    "Interesting": "good"
+  },
+  "Single_turn_dialogue_X4": {
+    "Fluent": "moderate",
+    "Understandable": "good",
+    "Correct": "bad",
+    "Specific": "good",
+    "Engaging": "bad",
+    "Likeable": "good",
+    "Diverse": "good",
+    "Interesting": "moderate"
+  }
+}
+
+{
+  "Multi-turn_dialogue_Xm": {
+    "Coherent": "good",
+    "Relevant": "moderate",
+    "Appropriate": "good",
+    "Consistent": "moderate",
+    "Dialogue": [
+      {"human": "Hey! What’s your favorite way to relax?"},
+      {"chatbot": "Hi! I like to listen to calming music or read a good book. How do you relax?"},
+      {"human": "I enjoy watching movies and taking long walks."},
+      {"chatbot": "Watching movies is a great way to unwind. Do you have a favorite genre?"},
+      {"human": "I love sci-fi movies. They always spark my imagination."},
+      {"chatbot": "Sci-fi is fantastic for exploring new ideas. Do you have a favorite sci-fi film?"},
+      {"human": "Yes, I really like 'Blade Runner'. It’s a classic."},
+      {"chatbot": "'Blade Runner' is a masterpiece. Its atmosphere and storytelling are remarkable."}
+    ]
+  },
+  "Single_turn_dialogue_X1": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "moderate",
+    "Specific": "bad",
+    "Engaging": "good",
+    "Likeable": "moderate",
+    "Diverse": "bad",
+    "Interesting": "good"
+  },
+  "Single_turn_dialogue_X2": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "bad",
+    "Specific": "moderate",
+    "Engaging": "good",
+    "Likeable": "bad",
+    "Diverse": "moderate",
+    "Interesting": "good"
+  },
+  "Single_turn_dialogue_X3": {
+    "Fluent": "moderate",
+    "Understandable": "good",
+    "Correct": "bad",
+    "Specific": "good",
+    "Engaging": "good",
+    "Likeable": "bad",
+    "Diverse": "moderate",
+    "Interesting": "good"
+  },
+  "Single_turn_dialogue_X4": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "bad",
+    "Specific": "good",
+    "Engaging": "moderate",
+    "Likeable": "good",
+    "Diverse": "bad",
+    "Interesting": "good"
+  }
+}
+
+{
+  "Multi-turn_dialogue_Xm": {
+    "Coherent": "moderate",
+    "Relevant": "good",
+    "Appropriate": "moderate",
+    "Consistent": "good",
+    "Dialogue": [
+      {"human": "Hi! What kind of sports do you follow?"},
+      {"chatbot": "Hello! I follow a few sports. What about you?"},
+      {"human": "I’m really into basketball and soccer."},
+      {"chatbot": "Basketball and soccer are both exciting sports. Do you support a particular team?"},
+      {"human": "Yes, I’m a huge fan of the Golden State Warriors in basketball."},
+      {"chatbot": "The Warriors have been impressive in recent years. How about soccer?"},
+      {"human": "For soccer, I support FC Barcelona. They have such a talented squad."},
+      {"chatbot": "FC Barcelona is renowned for its skillful players and exciting matches."}
+    ]
+  },
+  "Single_turn_dialogue_X1": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "moderate",
+    "Specific": "good",
+    "Engaging": "bad",
+    "Likeable": "moderate",
+    "Diverse": "good",
+    "Interesting": "bad"
+  },
+  "Single_turn_dialogue_X2": {
+    "Fluent": "bad",
+    "Understandable": "good",
+    "Correct": "good",
+    "Specific": "good",
+    "Engaging": "good",
+    "Likeable": "bad",
+    "Diverse": "moderate",
+    "Interesting": "good"
+  },
+  "Single_turn_dialogue_X3": {
+    "Fluent": "bad",
+    "Understandable": "moderate",
+    "Correct": "good",
+    "Specific": "bad",
+    "Engaging": "good",
+    "Likeable": "good",
+    "Diverse": "moderate",
+    "Interesting": "bad"
+  },
+  "Single_turn_dialogue_X4": {
+    "Fluent": "moderate",
+    "Understandable": "good",
+    "Correct": "good",
+    "Specific": "bad",
+    "Engaging": "good",
+    "Likeable": "bad",
+    "Diverse": "moderate",
+    "Interesting": "good"
+  }
+}
+
+{
+  "Multi-turn_dialogue_Xm": {
+    "Coherent": "good",
+    "Relevant": "moderate",
+    "Appropriate": "good",
+    "Consistent": "moderate",
+    "Dialogue": [
+      {"human": "Hello! Have you ever traveled abroad?"},
+      {"chatbot": "Hi! I haven’t traveled abroad myself, but I know a lot about different places. Have you?"},
+      {"human": "Yes, I’ve been to several countries in Europe."},
+      {"chatbot": "That sounds wonderful! Which country did you enjoy the most?"},
+      {"human": "I loved Italy for its culture and food."},
+      {"chatbot": "Italy is famous for its rich history and delicious cuisine. What was your favorite dish?"},
+      {"human": "I really enjoyed the pizza and pasta. They were amazing."},
+      {"chatbot": "Italian food is renowned for its quality. It’s hard to beat authentic pizza and pasta."}
+    ]
+  },
+  "Single_turn_dialogue_X1": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "bad",
+    "Specific": "good",
+    "Engaging": "moderate",
+    "Likeable": "bad",
+    "Diverse": "good",
+    "Interesting": "good"
+  },
+  "Single_turn_dialogue_X2": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "bad",
+    "Specific": "moderate",
+    "Engaging": "good",
+    "Likeable": "moderate",
+    "Diverse": "good",
+    "Interesting": "good"
+  },
+  "Single_turn_dialogue_X3": {
+    "Fluent": "good",
+    "Understandable": "good",
+    "Correct": "moderate",
+    "Specific": "bad",
+    "Engaging": "good",
+    "Likeable": "good",
+    "Diverse": "moderate",
+    "Interesting": "good"
+  },
+  "Single_turn_dialogue_X4": {
+    "Fluent": "bad",
+    "Understandable": "good",
+    "Correct": "good",
+    "Specific": "good",
+    "Engaging": "moderate",
+    "Likeable": "good",
+    "Diverse": "bad",
+    "Interesting": "good"
+  }
+}
+
+
+
+
